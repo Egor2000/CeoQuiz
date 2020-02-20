@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Просто приложение</string>
+    <string name="question_text">Канберра является столицей Австралии.</string>
+    <string name="true_button">Правда</string>
+    <string name="false_button">Ложь</string>
+
+    <string name="correct_toast">Правильно!</string>
+    <string name="incorrect_toast">Неправильно!</string>
+    <string name="next_button">Дальше</string>
+
+    <!-- Вопросы для отведа "да" или "нет" -->
+    <string name="question_ocean">Самый большой океан Тихий?</string>
+    <string name="question_president">Первый президент России Медведев?</string>
+    <string name="question_years">Сейчас 2020 год?</string>
+    <string name="question_eat">Вы знаете кто у Вас прячется под кроватью?</string>
+    <string name="question_asia">Просто... вопрос типо..</string>
+    <string name="gorod">Жигулёвск это самый прогрессивный город по сравнению с Тольятти?</string>
+    <string name="vlad_put">Ты всем сердцем любишь Владимира Путина и мечтаешь, что бы он стал Государем Российским?</string>
+
+
+
+
+
+</resources>
